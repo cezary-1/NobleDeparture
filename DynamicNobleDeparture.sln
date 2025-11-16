@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicNobleDeparture", "DynamicNobleDeparture\DynamicNobleDeparture.csproj", "{777B52E9-D148-4579-A632-063543166CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777B52E9-D148-4579-A632-063543166CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777B52E9-D148-4579-A632-063543166CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777B52E9-D148-4579-A632-063543166CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777B52E9-D148-4579-A632-063543166CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48E34E3-86C2-41A5-8734-9E1BEB42DDE4}
+	EndGlobalSection
+EndGlobal
